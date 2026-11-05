@@ -3,3 +3,6 @@ Basicamente, para esse aplicativo funcionar bem é preciso um banco de dados cri
 Para realizar a configuração do seu banco dados você tem que acessar o arquivo conexao.php que tem nesse repositório.
 
 <img width="1121" height="470" alt="image" src="https://github.com/user-attachments/assets/5638f4f5-3483-4cd2-b876-45c1b281c2da" />
+
+Aqui tem um link com app em um servidor gratuito que deixei hospedado
+acessa lá :https://reisweb2.free.nf/nova_tarefa.php
